@@ -1,0 +1,45 @@
+Original Paper:
+Foteini Simistira Liwicki, Vibha Gupta, Rajkumar Saini, Kanjar De, Nosheen Abid, Sumit Rakesh, Scott Wellington, Holly Wilson, Marcus Liwicki, Johan Eriksson (2022),
+Bimodal pilot study on inner speech decoding reveals the potential of combining EEG and fMRI,
+Url: https://www.biorxiv.org/content/10.1101/2022.05.24.492109v1
+
+Overview:
+The dataset involves a study for inner speech detection using bimodal electroencephalography (EEG) and Functional Magnetic
+Resonance Imaging (FMRI). The dataset consits of 1280 trials from 4 adult healthy subjects (2 male + 2 female) for each modality.
+The dataset consits of 1280 trials in each modality (EEG + FMRI). The stimulus consists of 4 words from 2 categories:
+1. Social: child, daughter, father, wife
+2. Numeric: four, three, ten, six
+
+There are four subjects sub01, sub02, sub03, sub05 files. Intitially there were 5 participants, however sub04 data 
+was rejected due to high gluctuations. Details of valid data are available at participants.tsv file.
+
+Experimental paradigm:
+To Do
+
+EEG DATA:
+RAW EEG Data 
+Device: BioSemi Active2
+EEG data was sampled 
+
+FMRI DATA:
+
+All the data was acquired via SIEMENS MAGNETOM Prisma
+All DICOM files were converted to NFTII using MRIcroGL 1.2.20211006 x86-64 FPC which uses dcm2niix for the conversion.
+FMRI task event file for each subject session conatins the following columns
+Innerword - Can be any of the 8 words child, daughter, father, wife, four, three, ten, six
+Condition - Can be Social or Numeric
+Stimulus Onset time in Seconds
+Stimulus Offset time in Seconds
+
+Task Events are available in subX_seesionY.tsv where X stands for subject number 1,2,3 and 5 and Y stands for session number 1 or 2.
+
+For FMRI BOLD files the following parameters were used.
+Slices:68
+TR:2160 ms
+TE:30.00 ms
+
+For FMRI field maps GRE Field maps:
+TR: 662.0 ms
+TE1: 4.92ms
+TE2: 7.38ms
+
