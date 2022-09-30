@@ -18,7 +18,7 @@
     "ReferencesAndLinks": [
         "https://github.com/LTU-Machine-Learning/Inner_Speech_EEG_FMRI"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004197.v1.0.3",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004197.v1.0.4",
     "DatasetType": "raw",
     "EthicsApprovals": [
         "Etikprövning myndigheden, ID:2021-06710-01"
