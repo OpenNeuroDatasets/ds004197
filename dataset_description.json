@@ -23,5 +23,6 @@
     "DatasetType": "raw",
     "EthicsApprovals": [
         "Etikprövning myndigheden, ID:2021-06710-01"
-    ]
+    ],
+    "Acknowledgements": "We would like to thank the Stockholm University Brain Imaging Centre (SUBIC) and more precisely Rita Almeida,  Patrik Andersson for giving us access to their facilities and for supporting us in this endeavour.\nPetter Kallioinen and Christoffer Schiehe-Forbes for their valuable support during the EEG data acquisition.\nFinally, we would also like to thank all participants for taking part in this study. "
 }
