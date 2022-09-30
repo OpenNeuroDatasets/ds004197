@@ -16,7 +16,6 @@
     ],
     "HowToAcknowledge": "Foteini Simistira Liwicki, Vibha Gupta, Rajkumar Saini, Kanjar De, Nosheen Abid, Sumit Rakesh, Scott Wellington, Holly Wilson, Marcus Liwicki, Johan Eriksson (2022). Bimodal dataset on inner speech. OpenNeuro. [Dataset] doi:10.18112/openneuro.ds004197.v1.0.1",
     "ReferencesAndLinks": [
-        "https://www.biorxiv.org/content/10.1101/2022.05.24.492109v1",
         "https://github.com/LTU-Machine-Learning/Inner_Speech_EEG_FMRI"
     ],
     "DatasetDOI": "doi:10.18112/openneuro.ds004197.v1.0.3",
