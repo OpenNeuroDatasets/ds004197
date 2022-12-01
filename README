@@ -2,7 +2,7 @@ Bimodal dataset on Inner Speech
 
 Code available: https://github.com/LTU-Machine-Learning/Inner_Speech_EEG_FMRI 
 
-Publication available: TODO 
+Publication available: https://www.biorxiv.org/content/10.1101/2022.05.24.492109v3  
 
 Abstract:
 Inner speech recognition is a challenging research area within Brain Computer Interfaces (BCI), which could give a `voice' to patients that have no ability to speak or move. Multimodal datasets of brain data enable fusion of neuroimaging modalities with complementary properties, such as the high spatial resolution of functional Magnetic Resonance Imaging (fMRI) and temporal resolution of Electroencephalography (EEG). This may hold promise for inner-speech decoding.
