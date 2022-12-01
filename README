@@ -5,15 +5,16 @@ Code available: https://github.com/LTU-Machine-Learning/Inner_Speech_EEG_FMRI
 Publication available: https://www.biorxiv.org/content/10.1101/2022.05.24.492109v3  
 
 Abstract:
-Inner speech recognition is a challenging research area within Brain Computer Interfaces (BCI), which could give a `voice' to patients that have no ability to speak or move. Multimodal datasets of brain data enable fusion of neuroimaging modalities with complementary properties, such as the high spatial resolution of functional Magnetic Resonance Imaging (fMRI) and temporal resolution of Electroencephalography (EEG). This may hold promise for inner-speech decoding.
-This paper presents the first publicly available bimodal EEG and fMRI dataset acquired non-simultaneously during inner speech production. EEG and fMRI data are acquired from four subjects as they performed an inner speech task for words belonging to a social or numerical category. There are in total 8 word stimuli, each with 40 trials, resulting in 320 trials in each modality for each subject.
+The recognition of inner speech, which could give a `voice' to patients that have no ability to speak or move, is a challenge for brain-computer interfaces (BCIs). A shortcoming of the available datasets is that they do not combine modalities to increase the performance of inner speech recognition. Multimodal datasets of brain data enable the fusion of neuroimaging modalities with complimentary properties, such as the high spatial resolution of functional magnetic resonance imaging (fMRI) and the temporal resolution of electroencephalography (EEG), and therefore are promising for decoding inner speech. This paper presents the first publicly available bimodal dataset containing EEG and fMRI data acquired nonsimultaneously during inner-speech production.  Data were obtained from four healthy, right-handed participants during an inner-speech task with words in either a social or numerical category. Each of the 8-word stimuli were assessed with 40 trials, resulting in 320 trials in each modality for each participant.   
+The aim of this work is to provide a publicly available bimodal dataset on inner speech, contributing towards speech prostheses.
 
+Short Dataset description:
 The dataset consists of 1280 trials in each modality (EEG, FMRI). 
 The stimuli contain 8 words,  selected from 2 different categories (social, numeric):
 Social: child, daughter, father, wife
 Numeric: four, three, ten, six
 
-There are 4 subjects in total: sub01, sub02, sub03, sub05. Initially, there were 5 participants, however, sub04 data 
-was rejected due to high fluctuations. Details of valid data are available in the file participants.tsv.
+There are 4 subjects in total: sub-01, sub-02, sub-03, sub-05. Initially, there were 5 participants, however, sub-04 data 
+was rejected due to high fluctuations. Details of valid data are available in the file participants.tsv. .
 
-For questions please contact foteini.liwicki@ltu.se 
+For questions please contact: foteini.liwicki@ltu.se 
