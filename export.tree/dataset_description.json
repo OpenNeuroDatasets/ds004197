@@ -1,0 +1,26 @@
+{
+    "Name": "FMRI-EEG Prestudy",
+    "BIDSVersion": "1.4",
+    "License": "CC0",
+    "Authors": [
+        "Foteini Liwicki",
+        "Vibha Gupta",
+        "Rajkumar Saini",
+        "Kanjar De",
+        "Nosheen Abid",
+        "Sumit Rakesh",
+        "Scott Wellington",
+        "Holly Wilson",
+        "Marcus Liwicki",
+        "Johan Eriksson"
+    ],
+    "HowToAcknowledge": "",
+    "ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/10.1101/2022.05.24.492109v1"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004197.v1.0.0",
+    "DatasetType": "raw",
+    "EthicsApprovals": [
+        "Etikpr¨ovning myndigheden, ID:2021-06710-01"
+    ]
+}
